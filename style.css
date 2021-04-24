@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Helvetica (sans-serif);
+    background-color: rgb(113, 156, 185);
+    
+    
+}
+#img-div{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+h1, h2, p{
+    text-align: center;
+}
+li{
+    padding: 20px 0px 0px 30px;
+}
+h1, p{
+    line-height: 40px;
+}
